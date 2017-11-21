@@ -1,6 +1,36 @@
 # Brewshop
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.5.
+> A fictional, online homebrew shop built with **Angular**, **Angular CLI**, **Bootstrap** and **Firebase**.
+> 
+> https://brew-shop.firebaseapp.com
+
+## Getting started
+
+You'll need
+
+- git
+- Node.js
+- npm
+
+To start, clone `brewshop`
+
+``` bash
+cd ~/workspace
+git clone git@github.com:HenrikR/brewshop.git
+cd brewshop
+```
+
+Install the dev dependencies (run with `sudo` if need be).
+
+``` bash
+npm install
+```
+
+Watch files for compilation.
+
+``` bash
+npm start
+```
 
 ## Development server
 
@@ -21,7 +51,3 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 ## Running end-to-end tests
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
